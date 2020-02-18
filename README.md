@@ -27,3 +27,5 @@ some various references to read about computer malware
 * [Measurements and Mitigation of Peer-to-Peer-based Botnets:A Case Study on 
   Storm Worm](papers/Measurements_and_Mitigation_of_Peer-to-Peer-based_.pdf)
 * [Worms and Bots](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/worm-botnet.pdf)
+* [Storm, Nugache lead dangerous new botnet barrage](
+  https://searchsecurity.techtarget.com/news/1286808/Storm-Nugache-lead-dangerous-new-botnet-barrage)
