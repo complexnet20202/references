@@ -16,10 +16,14 @@ some various references to read about computer malware
   data](papers/Modellig%20infection%20method.pdf)
 
 * [Web malware spread modelling and optimal control strategies](
-  papersWeb_malware_spread_modelling_and_optimal_control_s.pdf)
+  papers/Web_malware_spread_modelling_and_optimal_control_s.pdf)
 
-## storm worm
+* [Modeling the Spread of Malware on Complex Networks](
+  papers/ModelingtheSpreadofMalware.pdf)
+
+## worms
 
 * [The Storm Worm](https://www.schneier.com/blog/archives/2007/10/the_storm_worm.html)
 * [Measurements and Mitigation of Peer-to-Peer-based Botnets:A Case Study on 
   Storm Worm](papers/Measurements_and_Mitigation_of_Peer-to-Peer-based_.pdf)
+* [Worms and Bots](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/worm-botnet.pdf)
