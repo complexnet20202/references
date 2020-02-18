@@ -5,6 +5,9 @@ some various references to read about computer malware
 
 * [2020 State of  Malware Report](
   https://resources.malwarebytes.com/files/2020/02/2020_State-of-Malware-Report.pdf)
+* Computer Viruses and Malware: ch7, ch8
+* Malware Detection: 6 Very fast containement, 8 An Inside look at botnets.
+* Fighting malicious code: 3 Worms, 10 : The Silence of the Worms
 
 ## malware modelling
 
