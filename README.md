@@ -29,3 +29,13 @@ some various references to read about computer malware
 * [Worms and Bots](https://crypto.stanford.edu/cs155old/cs155-spring11/lectures/worm-botnet.pdf)
 * [Storm, Nugache lead dangerous new botnet barrage](
   https://searchsecurity.techtarget.com/news/1286808/Storm-Nugache-lead-dangerous-new-botnet-barrage)
+
+## botnets
+* [Modelling the Spread of Botnet Malware in IoT-Based Wireless Sensor Networks](papers/ModellingTheSpreadOfBotnets.pdf)
+
+## botnet dataset
+* [Datasets](https://www.uvic.ca/engineering/ece/isot/datasets/)
+* [Datasets Overview](https://www.stratosphereips.org/datasets-overview)
+* [detection_of_IoT_botnet_attacks_N_BaIoT Data Set](https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT#)
+* [Datasets](https://www.unb.ca/cic/datasets/index.html)
+* [The BoT-IoT Dataset](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/bot_iot.php)
