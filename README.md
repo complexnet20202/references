@@ -32,6 +32,7 @@ some various references to read about computer malware
 
 ## botnets
 * [Modelling the Spread of Botnet Malware in IoT-Based Wireless Sensor Networks](papers/ModellingTheSpreadOfBotnets.pdf)
+* [Cyber Security Cryptography and Machine Learning: Third International Symposium, CSCML 2019, Beer-Sheva, Israel, June 27–28, 2019, Proceedings pp 279-295 ]
 
 ## botnet dataset
 * [Datasets](https://www.uvic.ca/engineering/ece/isot/datasets/)
